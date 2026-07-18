@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Plan conceptual RobSer Compact 90</title>
+  <desc id="desc">Schemă orientativă pentru o casă parter cu două dormitoare, zonă de zi, bucătărie, baie, grup sanitar și spații tehnice.</desc>
+  <rect width="1200" height="900" fill="#fffdf9"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#171815">
+    <text x="72" y="74" font-size="18" font-weight="700" letter-spacing="3" fill="#805600">ROBSER COMPACT 90</text>
+    <text x="72" y="123" font-size="34" font-weight="700">Plan conceptual · parter</text>
+    <text x="1128" y="76" font-size="18" font-weight="700" text-anchor="end">~89 m² utili</text>
+    <text x="1128" y="108" font-size="15" text-anchor="end" fill="#65675f">2 dormitoare · 2 băi · terasă protejată</text>
+  </g>
+
+  <g stroke="#171815" stroke-width="6" stroke-linejoin="miter">
+    <rect x="86" y="178" width="1028" height="510" fill="#f7f5f0"/>
+    <rect x="86" y="178" width="274" height="216" fill="#ece9e1"/>
+    <rect x="86" y="394" width="306" height="294" fill="#ece9e1"/>
+    <rect x="360" y="178" width="144" height="136" fill="#e4e1d8"/>
+    <rect x="360" y="314" width="144" height="80" fill="#e4e1d8"/>
+    <rect x="392" y="394" width="220" height="182" fill="#fffdf9"/>
+    <rect x="392" y="576" width="112" height="112" fill="#fffdf9"/>
+    <rect x="504" y="576" width="108" height="112" fill="#e4e1d8"/>
+    <rect x="504" y="178" width="260" height="216" fill="#f2e6c7"/>
+    <path d="M764 178H1114V688H612V394H764Z" fill="#f2e6c7"/>
+    <rect x="764" y="688" width="350" height="86" fill="#dfe5d8" stroke-dasharray="12 10"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle" fill="#171815">
+    <g transform="translate(223 279)">
+      <text font-size="21" font-weight="700">Dormitor 2</text><text y="28" font-size="16" fill="#65675f">~11,6 m²</text>
+    </g>
+    <g transform="translate(239 526)">
+      <text font-size="21" font-weight="700">Dormitor principal</text><text y="28" font-size="16" fill="#65675f">~14,2 m²</text>
+    </g>
+    <g transform="translate(432 244)">
+      <text font-size="18" font-weight="700">Baie</text><text y="25" font-size="15" fill="#65675f">~6 m²</text>
+    </g>
+    <g transform="translate(432 347)">
+      <text font-size="16" font-weight="700">Duș / WC</text><text y="22" font-size="14" fill="#65675f">~2,7 m²</text>
+    </g>
+    <g transform="translate(502 476)">
+      <text font-size="18" font-weight="700">Hol + depozitare</text><text y="25" font-size="15" fill="#65675f">~6,5 m²</text>
+    </g>
+    <g transform="translate(448 623)">
+      <text font-size="15" font-weight="700">Vestibul</text><text y="22" font-size="13" fill="#65675f">~4,2 m²</text>
+    </g>
+    <g transform="translate(558 623)">
+      <text font-size="15" font-weight="700">Tehnic</text><text y="22" font-size="13" fill="#65675f">~5,1 m²</text>
+    </g>
+    <g transform="translate(634 279)">
+      <text font-size="21" font-weight="700">Bucătărie</text><text y="28" font-size="16" fill="#65675f">~10,2 m²</text>
+    </g>
+    <g transform="translate(873 468)">
+      <text font-size="24" font-weight="700">Living + dining</text><text y="31" font-size="17" fill="#65675f">~28,5 m²</text>
+    </g>
+    <g transform="translate(939 728)">
+      <text font-size="17" font-weight="700">Terasă protejată</text><text y="23" font-size="14" fill="#65675f">~18 m² · exterior</text>
+    </g>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(86 820)">
+      <rect width="190" height="38" fill="#171815"/>
+      <text x="95" y="25" fill="#fffdf9" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="1.3">MODEL CONCEPTUAL</text>
+    </g>
+    <text x="300" y="837" fill="#65675f" font-size="15">Suprafețe orientative. Nu este plan pentru autorizare sau execuție.</text>
+    <g transform="translate(1076 790)" fill="#171815" text-anchor="middle">
+      <path d="M0 38V0M0 0L-9 16M0 0L9 16" stroke="#171815" stroke-width="3" fill="none"/>
+      <text y="58" font-size="14" font-weight="700">N</text>
+    </g>
+  </g>
+</svg>

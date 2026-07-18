@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Plan conceptual RobSer Compact 150 P+1</title>
+  <desc id="desc">Schemă orientativă pentru o casă compactă cu parter și etaj, trei dormitoare, birou și două băi.</desc>
+  <rect width="1200" height="900" fill="#fffdf9"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" fill="#171815">
+    <text x="68" y="72" font-size="18" font-weight="700" letter-spacing="3" fill="#805600">ROBSER COMPACT 150 P+1</text>
+    <text x="68" y="121" font-size="34" font-weight="700">Plan conceptual · parter + etaj</text>
+    <text x="1132" y="74" font-size="18" font-weight="700" text-anchor="end">~153 m² utili</text>
+    <text x="1132" y="106" font-size="15" text-anchor="end" fill="#65675f">P+1 · 3 dormitoare + birou · 2 băi</text>
+    <text x="68" y="174" font-size="17" font-weight="700" letter-spacing="2" fill="#805600">PARTER · ~81 M²</text>
+    <text x="630" y="174" font-size="17" font-weight="700" letter-spacing="2" fill="#805600">ETAJ · ~72 M²</text>
+  </g>
+
+  <g stroke="#171815" stroke-width="6" stroke-linejoin="miter">
+    <rect x="68" y="202" width="500" height="408" fill="#f7f5f0"/>
+    <rect x="68" y="202" width="282" height="258" fill="#f2e6c7"/>
+    <rect x="350" y="202" width="218" height="188" fill="#f2e6c7"/>
+    <rect x="68" y="460" width="192" height="150" fill="#ece9e1"/>
+    <rect x="260" y="460" width="110" height="150" fill="#fffdf9"/>
+    <rect x="370" y="390" width="198" height="110" fill="#e4e1d8"/>
+    <rect x="370" y="500" width="99" height="110" fill="#e4e1d8"/>
+    <rect x="469" y="500" width="99" height="110" fill="#e4e1d8"/>
+    <rect x="68" y="610" width="282" height="74" fill="#f2e6c7" stroke-dasharray="12 10"/>
+
+    <rect x="630" y="202" width="502" height="408" fill="#f7f5f0"/>
+    <rect x="630" y="202" width="260" height="188" fill="#ece9e1"/>
+    <rect x="890" y="202" width="90" height="96" fill="#e4e1d8"/>
+    <rect x="980" y="202" width="152" height="150" fill="#e4e1d8"/>
+    <rect x="890" y="298" width="90" height="92" fill="#fffdf9"/>
+    <rect x="630" y="390" width="210" height="220" fill="#ece9e1"/>
+    <rect x="840" y="390" width="210" height="220" fill="#ece9e1"/>
+    <rect x="1050" y="352" width="82" height="178" fill="#fffdf9"/>
+    <rect x="1050" y="530" width="82" height="80" fill="#e4e1d8"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle" fill="#171815">
+    <g transform="translate(209 318)"><text font-size="21" font-weight="700">Living + dining</text><text y="28" font-size="15" fill="#65675f">~34 m²</text></g>
+    <g transform="translate(459 285)"><text font-size="19" font-weight="700">Bucătărie + cămară</text><text y="26" font-size="14" fill="#65675f">~15 m²</text></g>
+    <g transform="translate(164 526)"><text font-size="17" font-weight="700">Birou / oaspeți</text><text y="24" font-size="14" fill="#65675f">~11 m²</text></g>
+    <g transform="translate(315 515)"><text font-size="13" font-weight="700">Vestibul</text><text y="19" font-size="12" fill="#65675f">hol + acces</text></g>
+    <g transform="translate(469 435)"><text font-size="16" font-weight="700">Scară + hol</text><text y="22" font-size="13" fill="#65675f">parte din ~12 m²</text></g>
+    <g transform="translate(420 548)"><text font-size="13" font-weight="700">Duș / WC</text><text y="19" font-size="12" fill="#65675f">~4 m²</text></g>
+    <g transform="translate(518 548)"><text font-size="13" font-weight="700">Tehnic</text><text y="19" font-size="12" fill="#65675f">~5 m²</text></g>
+    <g transform="translate(209 650)"><text font-size="15" font-weight="700">Terasă protejată · exterior</text></g>
+
+    <g transform="translate(760 285)"><text font-size="19" font-weight="700">Dormitor principal</text><text y="26" font-size="14" fill="#65675f">~17 m²</text></g>
+    <g transform="translate(935 243)"><text font-size="12" font-weight="700">Dressing</text><text y="18" font-size="11" fill="#65675f">~5 m²</text></g>
+    <g transform="translate(1056 268)"><text font-size="16" font-weight="700">Baie</text><text y="22" font-size="13" fill="#65675f">~8 m²</text></g>
+    <g transform="translate(935 338)"><text font-size="12" font-weight="700">Podest scară</text></g>
+    <g transform="translate(735 490)"><text font-size="18" font-weight="700">Dormitor 2</text><text y="25" font-size="14" fill="#65675f">~13 m²</text></g>
+    <g transform="translate(945 490)"><text font-size="18" font-weight="700">Dormitor 3</text><text y="25" font-size="14" fill="#65675f">~13 m²</text></g>
+    <g transform="translate(1091 427)"><text font-size="12" font-weight="700" transform="rotate(-90)">Hol etaj · ~11 m²</text></g>
+    <g transform="translate(1091 565)"><text font-size="11" font-weight="700">Depozitare</text><text y="16" font-size="10" fill="#65675f">~5 m²</text></g>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(68 786)"><rect width="190" height="38" fill="#171815"/><text x="95" y="25" fill="#fffdf9" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="1.3">MODEL CONCEPTUAL</text></g>
+    <text x="282" y="803" fill="#65675f" font-size="15">Suprafețe orientative. Nu este plan pentru autorizare sau execuție.</text>
+    <g transform="translate(1090 756)" fill="#171815" text-anchor="middle"><path d="M0 38V0M0 0L-9 16M0 0L9 16" stroke="#171815" stroke-width="3" fill="none"/><text y="58" font-size="14" font-weight="700">N</text></g>
+  </g>
+</svg>
