@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
-  <title id="title">Plan conceptual RobSer Compact 90</title>
-  <desc id="desc">Schemă orientativă pentru o casă parter cu două dormitoare, zonă de zi, bucătărie, baie, grup sanitar și spații tehnice.</desc>
+  <title id="title">Compartimentare RobSer Compact 90</title>
+  <desc id="desc">Casă parter cu două dormitoare, zonă de zi, bucătărie, baie, grup sanitar și spații tehnice.</desc>
   <rect width="1200" height="900" fill="#fffdf9"/>
   <g font-family="Arial, Helvetica, sans-serif" fill="#171815">
     <text x="72" y="74" font-size="18" font-weight="700" letter-spacing="3" fill="#805600">ROBSER COMPACT 90</text>
-    <text x="72" y="123" font-size="34" font-weight="700">Plan conceptual · parter</text>
+    <text x="72" y="123" font-size="34" font-weight="700">Compartimentare · parter</text>
     <text x="1128" y="76" font-size="18" font-weight="700" text-anchor="end">~89 m² utili</text>
     <text x="1128" y="108" font-size="15" text-anchor="end" fill="#65675f">2 dormitoare · 2 băi · terasă protejată</text>
   </g>
@@ -57,11 +57,6 @@
   </g>
 
   <g font-family="Arial, Helvetica, sans-serif">
-    <g transform="translate(86 820)">
-      <rect width="190" height="38" fill="#171815"/>
-      <text x="95" y="25" fill="#fffdf9" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="1.3">MODEL CONCEPTUAL</text>
-    </g>
-    <text x="300" y="837" fill="#65675f" font-size="15">Suprafețe orientative. Nu este plan pentru autorizare sau execuție.</text>
     <g transform="translate(1076 790)" fill="#171815" text-anchor="middle">
       <path d="M0 38V0M0 0L-9 16M0 0L9 16" stroke="#171815" stroke-width="3" fill="none"/>
       <text y="58" font-size="14" font-weight="700">N</text>
